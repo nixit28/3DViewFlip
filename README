@@ -3,7 +3,8 @@
 I am performing animation on TextView. Animation include Rotation and Scaling  of TextView such that 
 it looks like 3D animation.
 
-I go the help from http://www.inter-fuser.com/2009/08/android-animations-3d-flip.html
-which include rotation only so I have expanded the code and included the scaling and rotation together.
+I got the help from http://www.inter-fuser.com/2009/08/android-animations-3d-flip.html
+which include rotation only,
+so I have expanded the code and included the scaling and rotation together.
 
 wish that help to someone
